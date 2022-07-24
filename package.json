@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "check-types": "tsc index.js --checkJs --noEmit"
+  }
+}
